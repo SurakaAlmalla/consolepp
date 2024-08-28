@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "7xE58k8fjCcA35e62Vcc+lNBHg2PVoG5qjWdgMxv7Xo=",
+  "Source": "MVCDemo",
+  "BasePath": "_content/MVCDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVCDemo\\wwwroot",
+      "Source": "MVCDemo",
+      "ContentRoot": "C:\\Users\\Administrator\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\",
+      "BasePath": "_content/MVCDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Administrator\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "MVCDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\",
+      "BasePath": "_content/MVCDemo",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "MVCDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\",
+      "BasePath": "_content/MVCDemo",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "MVCDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\source\\repos\\MVCDemo\\MVCDemo\\wwwroot\\",
+      "BasePath": "_content/MVCDemo",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    }
+  ]
+}
